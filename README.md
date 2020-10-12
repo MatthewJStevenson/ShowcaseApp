@@ -1,4 +1,4 @@
-# WIP showchase app
+# Showchase app
 Work in progress functioning store with cart and checkout (no payment processing).
 Also secure login
 
