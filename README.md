@@ -1,5 +1,5 @@
 # WIP showchase app
-Work in progress function store with cart and checkout (no payment processing).
+Work in progress functioning store with cart and checkout (no payment processing).
 Also secure login
 
 ## Done:
